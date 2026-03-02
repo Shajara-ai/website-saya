@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Jurnal Sehat Shajara-ai</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; text-align: center; padding: 50px; }
+        .container { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #2c3e50; }
+        .target { font-size: 24px; color: #27ae60; font-weight: bold; }
+    </style>
+</head>
 <body>
-    <h1>Selamat Datang di Website Shajara-ai!</h1>
-    <p>Ini adalah website pertama saya yang dibuat di GitHub.</p>
+    <div class="container">
+        <h1>Halo! Ini Website Shajara-ai</h1>
+        <p>Selamat datang di jurnal progres saya.</p>
+        <hr>
+        <p>Target Berat Badan:</p>
+        <div class="target">60 KG</div>
+        <p><i>"Konsistensi adalah kunci!"</i></p>
+    </div>
 </body>
 </html>
